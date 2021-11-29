@@ -22,3 +22,12 @@ Sorting algorithms in various different programming languages
 ## Testing 
 
 Complete timed tests on all sort algorithms to determine relative speeds.
+
+## Results
+
+| Language | Insrtion | Selection | Merge | Heap | Quick | Bubble |
+| -------- | -------- | --------- | ----- | ---- | ----- | ------ |
+| Python   |          |           |       |      |       |        | 
+| C/C++    |          |           |       |      |       |        |
+| Assembly |          |           |       |      |       |        |
+| Bash     |          |           |       |      |       |        |
